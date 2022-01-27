@@ -55,5 +55,3 @@ Całujcie mnie wszyscy w dupę.
 ```
 
 Coco jumbo coco jumbo ```Class CocoJumbo{``` w tekście
-
-![Hi](https://github.com/snipam200/1.13-DMSB/blob/main/unnamed.jpg)
